@@ -93,8 +93,8 @@
   margin-right: 2%;
   font-size: 300%;
   font-weight: 700;
-  height: 11.5vh;
   font-family: "Poppins";
+  padding-block-start: 2%;
 }
 
 .result_container {
